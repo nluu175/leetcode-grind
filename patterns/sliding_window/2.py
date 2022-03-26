@@ -57,11 +57,10 @@ def solution(array, k):
 # Whole array sum is smaller than 8.
 
 def main():
-    arr1 = [1, 4, 45, 6, 10, 19]
+    arr = [1, 4, 45, 6, 10, 19]
     k = 51
-    res1 = solution(arr1, k)
-
-    print(res1)
+    res = solution(arr, k)
+    print(res)
 
 
 main()

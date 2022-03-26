@@ -20,8 +20,8 @@ Why am I doing this to myself?
 
 | # | Problems | Difficulty | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| 1 | Maximum Sum Subarray of Size K  | Easy | |
-| 2 | Smallest Subarray with a given sum | Easy | |
+| 1 | Maximum Sum Subarray of Size K  | Easy | Done (mar25) |
+| 2 | Smallest Subarray with a given sum | Easy | Done (mar25) |
 | 3 | Longest Substring with K Distinct Characters | Medium | |
 | 4 | Fruits into Baskets | Medium | |
 | 5 | No-repeat Substring * | Hard | |
