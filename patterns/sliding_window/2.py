@@ -11,7 +11,7 @@ def solution(array, k):
     curr_sum = 0
     min_len = n + 1
 
-    # Initialize starting and ending indekes
+    # Initialize starting and ending indexes
     start = 0
     end = 0
     while (end < n):
